@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .navbar{
+    /* padding: 0 100px; */
+/* } */
+.navbar-list{
+    margin-left: 3em;
+    padding: 35px 0;
+    text-transform: uppercase;
+}
+.location{
+    margin-right: 10px;
+}
+.nav-item button{
+    margin-left: 15px;
+
+}
+.footercontainer a{
+    text-decoration: none;
+   
+    color: gray;
+    /* margin-bottom: 10px; */
+}
+.footercontainer h5{
+    /* inline-size: initial; */
+    text-align: center;
+}
+
+
